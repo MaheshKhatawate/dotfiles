@@ -18,7 +18,7 @@
       KeyRepeat = 2;          # fast key repeat
       InitialKeyRepeat = 15;  # short delay before repeat
       _HIHideMenuBar = false;  # auto-hide the menu bar
-      AppleShowAllExtensions = true;
+      AppleShowAllExtensions = false;
     };
     dock.autohide = false;
     finder.FXPreferredViewStyle = "Nlsv";  # list view by default
