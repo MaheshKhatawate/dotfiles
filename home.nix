@@ -84,7 +84,7 @@ in
       
       # Your old personal paths
       mahesh = "cd /Users/maheshkhatawate/Documents/Mahesh";
-      me = "cd /Users/maheshkhatawate/Documents/Mahesh/engineering/Engineering\ 7th\ semester";
+      me = "cd '/Users/maheshkhatawate/Documents/Mahesh/engineering/Engineering 7th semester'";
       mc = "cd /Users/maheshkhatawate/Documents/Mahesh/coding";
     };
   };
